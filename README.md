@@ -81,7 +81,7 @@ Topics will be demonstrated through live-code examples/slides, videos and demos.
 Mark Joseph J. Solidarios, [mjsolidarios@wvsu.edu.ph](mjsolidarios@wvsu.edu.ph)
 
 #### F1: Need Help?
-* [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/iict-it238?utm_source=share-link&utm_medium=link&utm_campaign=share-link)
+* [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/iict-it230/iict-webservice-f1?utm_source=share-link&utm_medium=link&utm_campaign=share-link)
  * Feel free to ask a question even if no one's around. **DON'T BE SHY!**
  * Message notifications are still sent to listeners.
  * [Email](mailto:mjsolidarios@wvsu.edu.ph) for 1-on-1 help, or to set up a time to meet your teacher at the faculty office.
